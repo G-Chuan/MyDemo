@@ -1,3 +1,3 @@
 <?php
 
-echo 'hello world0';
+echo shell_exec('ls -la');
